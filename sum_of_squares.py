@@ -7,7 +7,6 @@
 @作者        :gcusms
 @版本        :1.0
 '''
-
 # 求前 n 项系数和
 
 def sum_number(n):

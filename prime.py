@@ -9,7 +9,6 @@
 '''
 # 求区间内所有的素数
 # 
-
 import numpy as np
 
 
