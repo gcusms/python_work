@@ -17,7 +17,8 @@ def multithreading(data):
         threads.append(t)
 
     for thread in threads:
-        thread.join
+        thread.join()
+
 
     results = []
     for _ in range(len(data)):
